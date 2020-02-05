@@ -29,3 +29,11 @@
 <thumbnail>https://i.imgur.com/t9GVIIa.png</thumbnail>
 <fanart>https://i.imgur.com/W0ByqfA.jpg</fanart>
 </item>
+
+<item>
+<title>[COLOR darkorange]Filmes Gospel 2[/COLOR]</title>
+<link>ignoreme</link>
+<jsonrpc>Plugin://plugin.video.youtube/playlist/PLuUeUitoaXCOMRxGvI7bJFzC8iLtuoShl/?page=0</jsonrpc>
+<thumbnail>https://i.imgur.com/dFdIdTk.png</thumbnail>
+<fanart>https://i.imgur.com/U46ZFRZ.jpg</fanart>
+</item>
