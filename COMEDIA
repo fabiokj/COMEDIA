@@ -30,3 +30,14 @@ hvergelmir.lhmtv.gq/stream/filmes/Inherit.the.Viper2020dub.mp4?LHMTv
 <info>Na Geórgia rural de 1977, uma menina fora dos padrões sonha com a vida no espaço. Quando uma competição nacional oferece a ela a chance de realizar seu sonho e gravar sua voz no Golden Record da NASA, ela recruta uma tropa improvisada de Escoteiras Birdie, construindo amizades para a vida inteira.</info>
 </item>
 
+<item>
+<title>[B][COLOR white]+ VELOZES + FURIOSOS[/COLOR][/B]</title>
+<link>$doregex[BP1]VLZEFROSOS02.mp4?617119629686666009761711962946527564820B265dpk7MD54akZPQkp6VjlGbkk.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rcf1"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://redecanais.vip/imgs-videos/RCServer08/imgs-videos/2%20Velozes%202%20Furiosos.jpg</thumbnail>
+<fanart>https://redecanais.vip/imgs-videos/RCServer08/imgs-videos/2%20Velozes%202%20Furiosos.jpg</fanart>
+<info>Após deixar a polícia, Brian O'Conner (Paul Walker) é forçado a participar de uma nova missão: se infiltrar no crime organizado de Miami de forma a investigar sobre o transporte de dinheiro sujo para Carter Verone (Cole Hauser), o chefe do tráfico local. Para tanto ele recebe a ajuda de seu ex-colega Roman Pearce (Tyrese) e da agente secreta Monica Clemente (Eva Mendes).</info>
+<date>2003</date>
